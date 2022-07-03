@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/bin/Debug/net6.0/Extra3
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/bin/Debug/net6.0/Extra3.deps.json
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/bin/Debug/net6.0/Extra3.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/bin/Debug/net6.0/Extra3.dll
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/bin/Debug/net6.0/Extra3.pdb
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.dll
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/refint/Extra3.dll
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.pdb
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/Extra3.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Extra/Extra3/obj/Debug/net6.0/ref/Extra3.dll
